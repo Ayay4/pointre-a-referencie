@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\sbuko\Desktop\1.0\software\cppň\Project16\Source.cpp(31,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sbuko\Desktop\1.0\software\cppň\Project16\Source.cpp(34,13): warning C4305: '=': truncation from 'double' to 'float'
+  Project16.vcxproj -> C:\Users\sbuko\Desktop\1.0\software\cppň\Project16\Debug\Project16.exe
